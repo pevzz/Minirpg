@@ -1,0 +1,1 @@
+{'name': 'mountainous Yama', 'attack': 35, 'defense': 17, 'hp': 87, 'level': 2}

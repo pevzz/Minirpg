@@ -1,0 +1,1 @@
+{'name': 'hooligan marduk', 'attack': 39, 'defense': 31, 'hp': 117, 'level': 4}

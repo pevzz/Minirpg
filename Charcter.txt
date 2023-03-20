@@ -1,0 +1,1 @@
+{'gender': 'Male', 'name': 'Hass', 'job': 'Mage', 'attack': 40, 'defense': 34, 'hp': -11, 'mp': 195, 'level': 3, 'money': 200}

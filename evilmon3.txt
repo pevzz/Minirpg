@@ -1,0 +1,1 @@
+{'name': 'demon Raven', 'attack': 28, 'defense': 28, 'hp': -26, 'level': 3}
