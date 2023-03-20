@@ -4,6 +4,13 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+                pip install tabulate
+                pip install inquirer
+                pip install flask
+            }
+        }
+           stage('Play') {
+            steps {
                 bat 'python main.py'
             }
         }
