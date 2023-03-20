@@ -3,7 +3,7 @@ import inquirer
 import random
 import os ,time, sys
 from time import sleep
-import ruff
+
 
 
 class Charcter:
